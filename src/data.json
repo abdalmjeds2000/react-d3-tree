@@ -1,0 +1,41 @@
+{
+  "id": "oisM7spSmUm0DaQ30LRu7Q==",
+  "name": "CEO",
+  "children": [
+    {
+      "id": "VgCJb9tzTkWwf/jZlJWYIw==",
+      "name": "Manager",
+      "attributes": {
+        "department": "Production"
+      },
+      "children": [
+        {
+          "id": "mbWi6qMdN06SLT4Jl42zXw==",
+          "name": "Foreman",
+          "attributes": {
+            "department": "Fabrication"
+          },
+          "children": [
+            {
+              "id": "jh+brQoBoU6x/16EQtU21Q==",
+              "name": "Worker"
+            }
+          ]
+        },
+        {
+          "id": "wf+7pgM8tEG0ydE+ONf6mQ==",
+          "name": "Foreman",
+          "attributes": {
+            "department": "Assembly"
+          },
+          "children": [
+            {
+              "id": "bsMh0LjzQEKYXQ81u6QDmQ==",
+              "name": "Worker"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
